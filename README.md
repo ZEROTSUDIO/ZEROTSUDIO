@@ -47,7 +47,7 @@ A modern, responsive e-catalogue website for Rapa Cast Stone featuring a compreh
 
 `Laravel` `Livewire` `Tailwind CSS` `MySQL`
 
-🔗 [View Case Study →](https://github.com/ZEROTSUDIO)
+🔗 [View Project →]((https://github.com/ZEROTSUDIO/Rapa-Cast-Stone-Catalog))
 
 ---
 
@@ -58,7 +58,7 @@ A client-facing invoice generation tool that automatically computes totals, appl
 
 `JavaScript` `Tailwind CSS`
 
-🔗 [View Case Study →](https://github.com/ZEROTSUDIO)
+🔗 [View Project →](https://github.com/ZEROTSUDIO/invoice-generator)
 
 ---
 
@@ -86,7 +86,7 @@ Production management system with a Shortest Job First (SJF) scheduling algorith
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ZEROTSUDIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ZEROTSUDIO&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEROTSUDIO&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
