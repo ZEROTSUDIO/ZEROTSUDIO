@@ -47,7 +47,7 @@ A modern, responsive e-catalogue website for Rapa Cast Stone featuring a compreh
 
 `Laravel` `Livewire` `Tailwind CSS` `MySQL`
 
-🔗 [View Project →]((https://github.com/ZEROTSUDIO/Rapa-Cast-Stone-Catalog))
+🔗 [View Project →]((https://rapacaststone.com))
 
 ---
 
